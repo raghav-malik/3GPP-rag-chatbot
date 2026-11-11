@@ -1,6 +1,6 @@
 # 3GPP RAG Chatbot
 
-A Retrieval-Augmented Generation chatbot for 3GPP telecom standards with a focus on faithful, abstention-aware answers. Built as a project submission for Mavenir's Graduate Engineer Trainee – AI/LLM Engineer (Telecom AI Ops) position.
+A Retrieval-Augmented Generation chatbot for 3GPP telecom standards with a focus on faithful, abstention-aware answers.
 
 ## Architecture
 
